@@ -70,7 +70,7 @@ Tab 3 contains a simple table to determine the most profitable per serving for S
 ![The Project Model](ScreenShots/Project-model.png)
 
 ###  Tab 1 - Sales and GPM
-![Tab 1 - Sales and GPM](ScreenShots/Sales-and-GPM.png)
+![Tab 1 - Sales and GPM](ScreenShots/Sales%20and%20GPM.png)
 
 ###  Tab 2 SSTC-Gross Profit and Unit Sales
 ![SSTC-Gross Profit and Unit Sales](ScreenShots/SSTC-GP%20and%20Unit%20Sales%20by%20Product.png)
