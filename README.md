@@ -30,9 +30,15 @@ Here are the critical steps involved in this project, each of which will be disc
 The project steps align with the main steps of the Power BI pipeline:
 ![Power BI Pipeline](ScreenShots/power-bi-pipeline.png)
 
+## Suggestion 1: Product Type
+So far, we've helped the CFO better understand how sales and profitability translate by customer and we've learned more about profitability relative to sales by each tea.
+
+Next, we want to dig in a little deeper and figure out what product type is most profitable per serving for serving for SSTC beverages.
+
+
 ## Reporting Layer
 
-The reporting layer of this project consists of two tabs:
+The reporting layer of this project consists of three tabs:
 
 ### Tab 1
 
@@ -52,5 +58,22 @@ All values are properly formatted and clearly labeled. Fiscal quarters, not cale
 
 ### Tab 2
 
-Tab 2 contains a simple table with two columns. The columns show the percentage of sales and the percentage of gross profit contributed by each tea beverage produced by SSTC. The columns total to 100%.
+Tab 2 contains a simple table with three columns. The columns show the Sales, the percentage of sales, and the percentage of gross profit contributed by each tea beverage produced by SSTC. The total shows total Sales and 100% for PCT.
 
+### Tab 3 
+
+Tab 3 contains a simple table to determine the most profitable per serving for SSTC beverages By Product Type
+
+## Final Report Screenshots
+
+### The Project Model
+![The Project Model](ScreenShots/Project-model.png)
+
+###  Tab 1 - Sales and GPM
+![Tab 1 - Sales and GPM](ScreenShots/Sales-and-GPM.png)
+
+###  Tab 2 SSTC-Gross Profit and Unit Sales
+![SSTC-Gross Profit and Unit Sales](ScreenShots/SSTC-GP%20and%20Unit%20Sales%20by%20Product.png)
+
+###  Tab 2 Most Profitable Per Serving for SSTC beverages by Product Type
+![Most Profitable Per Serving for SSTC beverages by Product Type](ScreenShots/most%20profitable%20per%20serving%20for%20SSTC%20beverages.png)
