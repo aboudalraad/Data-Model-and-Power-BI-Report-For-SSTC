@@ -35,6 +35,22 @@ So far, we've helped the CFO better understand how sales and profitability trans
 
 Next, we want to dig in a little deeper and figure out what product type is most profitable per serving for serving for SSTC beverages.
 
+## Tables after Cleaning and Formatting Data
+### Customers List
+![Customers List](ScreenShots/tabels%20images/customer-list.png)
+
+### Products
+![Products](ScreenShots/tabels%20images/Products.png)
+
+### Monthly Sales Logs
+![Monthly Sales Logs](ScreenShots/tabels%20images/Monthly%20Sales%20Logs.png)
+
+### Date Table
+![Date Table](ScreenShots/tabels%20images/Date.png)
+
+### USD-CAD Exchange Rates
+![USD-CAD Exchange Rates](ScreenShots/tabels%20images/USD-CAD%20Exchange%20Rates.png)
+
 
 ## Reporting Layer
 
