@@ -52,6 +52,9 @@ Next, we want to dig in a little deeper and figure out what product type is most
 ![USD-CAD Exchange Rates](ScreenShots/tabels%20images/USD-CAD%20Exchange%20Rates.png)
 
 
+## The Project Model
+### Project Model
+![The Project Model](ScreenShots/Project-model.png)
 ## Reporting Layer
 
 The reporting layer of this project consists of three tabs:
@@ -81,9 +84,6 @@ Tab 2 contains a simple table with three columns. The columns show the Sales, th
 Tab 3 contains a simple table to determine the most profitable per serving for SSTC beverages By Product Type
 
 ## Final Report Screenshots
-
-### The Project Model
-![The Project Model](ScreenShots/Project-model.png)
 
 ###  Tab 1 - Sales and GPM
 ![Tab 1 - Sales and GPM](ScreenShots/Sales%20and%20GPM.png)
